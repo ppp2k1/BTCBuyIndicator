@@ -1,5 +1,5 @@
 # BTC Buy/Sell Indicator
-compares the price of BTC on WazirX and Binance and returns with a buy or sell recommendation on WazirX or CoinDCX
+compares the price of BTC on WazirX and Binance exchanges and returns with buy or sell recommendation for BTC on WazirX or CoinDCX
 
 ````
 btc > go run btc_indicator.go
